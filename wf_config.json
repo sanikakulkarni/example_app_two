@@ -1,9 +1,0 @@
-{
-  "icon": "area-chart",
-  "color": "grey",
-  "name" : "Example App Two",
-  "developer": "Company-2",
-  "description": "This is the second user created app",
-  "url" : "/katana/example_app_two/",
-  "app" : [{"name" : "Example App Two", "url" : "/katana/example_app_two/", "include": "apps.example_app_two.urls"}]
-}
